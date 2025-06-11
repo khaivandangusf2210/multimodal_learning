@@ -17,9 +17,6 @@ Develop an **AutoGluon MultiModal AI model** that predicts **head and neck cance
 
 This project uses the **HANCOCK dataset** from [hancock.research.fau.edu](https://hancock.research.fau.eu/download). 
 
-**Citation**: Dörrich et al, medrxiv 2024 (currently available as preprint)  
-**License**: CC BY
-
 ### HANCOCK Dataset Components Used
 
 From the full HANCOCK dataset, this project specifically uses:
