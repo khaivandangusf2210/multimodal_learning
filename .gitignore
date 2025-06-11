@@ -1,0 +1,65 @@
+# Large model files and results
+autogluon_results_*/models/*.ckpt
+autogluon_results_*/models/*.pkl
+*.ckpt
+*.pkl
+
+# Large data files
+Data/
+*.json
+*.csv
+*.geojson
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch models
+*.pth
+*.pt
+
+# Tensorboard logs
+events.out.tfevents.*
+
+# Large image files
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Large AutoGluon artifacts
+**/models/
+**/data_splits/
+**/predictions/
+**/visualizations/ 
