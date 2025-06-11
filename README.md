@@ -8,13 +8,6 @@ This project implements a multimodal machine learning pipeline for predicting he
 ### Primary Goal
 Develop an **AutoGluon MultiModal AI model** that predicts **head and neck cancer patient survival status** (deceased vs. living) by integrating multiple types of medical data.
 
-### Key Outputs
-1. **Binary Survival Status Prediction** - AutoGluon model that classifies patients as 'deceased' or 'living'
-2. **Probability Scores** - Confidence scores for each prediction (probability of being deceased)
-3. **Comprehensive Performance Metrics** - Accuracy, ROC AUC, F1 scores, balanced accuracy, etc.
-4. **Multimodal Data Integration** - Combines text, clinical, pathological, TMA, and WSI geometric features
-5. **Organized Results Structure** - All models, metrics, predictions, and data splits saved systematically
-
 ## Dataset
 - **763 patients** with head and neck cancer
 - **5 distinct data modalities** processed and integrated
