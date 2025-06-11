@@ -8,11 +8,6 @@ This project implements a multimodal machine learning pipeline for predicting he
 ### Primary Goal
 Develop an **AutoGluon MultiModal AI model** that predicts **head and neck cancer patient survival status** (deceased vs. living) by integrating multiple types of medical data.
 
-## Project Goals & Outputs
-
-### Primary Goal
-Develop an **AutoGluon MultiModal AI model** that predicts **head and neck cancer patient survival status** (deceased vs. living) by integrating multiple types of medical data.
-
 ## Dataset - HANCOCK Head and Neck Cancer Dataset
 
 This project uses the **HANCOCK dataset** from [hancock.research.fau.edu](https://hancock.research.fau.eu/download). 
