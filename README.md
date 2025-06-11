@@ -85,9 +85,5 @@ From the full HANCOCK dataset, this project specifically uses:
 **Total Used**: ~152 MB from the HANCOCK dataset  
 **Note**: This project uses annotations and structured data, not the full slide images (SVS files)
 
-### Dataset Statistics
-- **763 patients** with head and neck cancer
-- **5 distinct data modalities** processed and integrated  
-- **76 total features** after multimodal fusion
 
 
