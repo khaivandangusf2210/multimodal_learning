@@ -26,7 +26,7 @@ From the full HANCOCK dataset, this project specifically uses:
    - German surgery reports
    - English translations of surgery reports
 
-3. ** MA Cell Density Measurements** 
+3. **MA Cell Density Measurements** 
    - Tissue microarray cell density quantification
    - 6,332 individual measurements across patients
 
