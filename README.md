@@ -39,6 +39,3 @@ Develop an **AutoGluon MultiModal AI model** that predicts **head and neck cance
 - Geometric shape analysis of primary tumors
 - Spatial tumor characteristics
 
-## Data Availability
-All data has been converted to CSV format and is available in the `data_csv/` folder for easy analysis and model training.
-
