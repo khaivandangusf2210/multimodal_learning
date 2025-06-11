@@ -16,21 +16,21 @@ This project uses the **HANCOCK dataset** from [hancock.research.fau.edu](https:
 
 From the full HANCOCK dataset, this project specifically uses:
 
-1. ** Structured Data** 
+1. **Structured Data** 
    - `clinical_data.json` - Patient demographics and treatment history
    - `pathological_data.json` - Tumor staging and molecular markers
    - `blood_data.json` - Laboratory measurements
    - `blood_data_reference_ranges.json` - Reference ranges
 
-2. ** Text Data** 
+2. **Text Data** 
    - German surgery reports
    - English translations of surgery reports
 
-3. ** TMA Cell Density Measurements** 
+3. ** MA Cell Density Measurements** 
    - Tissue microarray cell density quantification
    - 6,332 individual measurements across patients
 
-4. ** Primary Tumor Annotations** 
+4. **Primary Tumor Annotations** 
    - Geometric annotations of primary tumors from WSI
    - Used for extracting tumor shape and spatial features
 
