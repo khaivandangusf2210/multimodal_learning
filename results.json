@@ -1,5 +1,5 @@
 {
-  "model": "autogluon_multimodal",
+  "model": "MultimodalFusionMLP",
   "test_metrics": {
     "accuracy": 0.7843,
     "balanced_accuracy": 0.6729,
